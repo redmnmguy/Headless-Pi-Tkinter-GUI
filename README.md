@@ -2,12 +2,12 @@
 A headless Raspberry Pi installation with a Tkinter GUI that loads at boot.
 
 ## Project Description
+1. What the application does.
+2. Why the application is usefull.
+3. Challenges faced and features to implement in the future.
 
-What the application does,
-Why the application is usefull,
-Challenges faced and features to implement in the future.
-
-## Step 1
+## Procedure
+### Step 1 
 
 Do this...
 
@@ -15,7 +15,7 @@ Do this...
 what to type on the command line
 ```
 
-## Step 2
+### Step 2
 
 python script...
 
