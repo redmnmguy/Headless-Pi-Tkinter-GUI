@@ -23,7 +23,7 @@ I'm sure there are probably other methods that may be smaller and more efficient
 * SD Card, 256Gb
 * TFT Touchscreen, 5"
   
-There are many touchscreens available that are compatible with a Raspberry Pi, I'm not going to go into how to install or set-up any one particular device.  The one I purchased connected to the Pi's display connector via a ribbon cable and worked without any additional configuration or drier installation.  Your device may require configuration or drives, which is beyond the scope of this repo.
+There are many touchscreens available that are compatible with a Raspberry Pi, I'm not going to go into how to install or set-up any one particular device.  The deisplay I purchased attached to the Pi's display connector via a ribbon cable and worked without any additional configuration or drier installation.  Your device may require configuration or drives, which is beyond the scope of this repo.
 
 ## Software:
 * Raspbain-Lite (Bookworm)
